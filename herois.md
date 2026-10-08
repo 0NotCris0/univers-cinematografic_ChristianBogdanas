@@ -42,3 +42,6 @@
 - **Origen:** Stephen Strange era un cirurgià que va començar a estudiar les arts místiques després d'un accident.
 - **Funció dins de la saga:** Protegeix l'equip davant amenaces màgiques i dimensions alternatives.
 
+## Relació entre els herois
+
+Iron Man i Spider-Man desenvolupen una relació basada en la confiança i l'aprenentatge. Tony Stark ajuda Peter Parker a millorar les seves habilitats i a comprendre la responsabilitat que implica ser un superheroi.

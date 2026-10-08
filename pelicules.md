@@ -26,3 +26,12 @@
 - **Escenari principal:** La Terra i diferents zones de l'espai.
 - **Resum de l'argument:** Thanos inicia un pla per aconseguir un poder capaç de canviar el futur de l'univers. Els Avengers hauran de deixar de banda les seves diferències i lluitar junts.
 - **Capítol relacionat:** Capítol 3: La formació dels Avengers i Capítol 4: La batalla pel futur de la Terra.
+
+## 4. El futur de l'univers
+
+- **Títol:** El futur de l'univers
+- **Protagonistes:** Els Avengers.
+- **Antagonista:** Una nova amenaça desconeguda.
+- **Escenari principal:** La Terra i diferents dimensions.
+- **Resum de l'argument:** Després de la batalla final, els herois descobreixen que existeix una nova amenaça que podria afectar diferents dimensions de l'univers. Els Avengers hauran de preparar-se per a una nova batalla.
+- **Capítol relacionat:** Capítol 5: El futur de l'univers cinematogràfic.
