@@ -5,7 +5,7 @@
 - **Nom:** Tony Stark / Iron Man
 - **Poder, habilitat o tecnologia principal:** Armadura tecnològica avançada.
 - **Origen:** Tony Stark és un inventor i empresari que crea una armadura per convertir-se en un superheroi.
-- **Funció dins de la saga:** És un dels principals líders de l'equip i aporta tecnologia i estratègia.
+- **Funció dins de la saga:** És un dels principals líders de l'equip i desenvolupa tecnologia per anticipar-se a les amenaces futures.
 
 ## Spider-Man
 
@@ -27,3 +27,18 @@
 - **Poder, habilitat o tecnologia principal:** Habilitats físiques millorades i tecnologia avançada de Wakanda.
 - **Origen:** T'Challa és el rei de Wakanda i assumeix el paper de Black Panther.
 - **Funció dins de la saga:** Proporciona recursos tecnològics i ajuda els altres herois a defensar la Terra.
+
+## Thor
+
+- **Nom:** Thor
+- **Poder, habilitat o tecnologia principal:** Força sobrehumana i control del poder del tro.
+- **Origen:** Thor és un guerrer d'Asgard que arriba a la Terra per ajudar els altres herois.
+- **Funció dins de la saga:** És un dels membres més poderosos de l'equip.
+
+## Doctor Strange
+
+- **Nom:** Stephen Strange / Doctor Strange
+- **Poder, habilitat o tecnologia principal:** Màgia i capacitats relacionades amb les arts místiques.
+- **Origen:** Stephen Strange era un cirurgià que va començar a estudiar les arts místiques després d'un accident.
+- **Funció dins de la saga:** Protegeix l'equip davant amenaces màgiques i dimensions alternatives.
+
